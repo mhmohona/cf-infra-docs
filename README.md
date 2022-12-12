@@ -1,4 +1,6 @@
-# Website
+# czi-cf-docs
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c42a203-3592-4910-a5cc-81530f1811d9/deploy-status)](https://app.netlify.com/sites/czi-cf-docs/deploys)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
