@@ -13,34 +13,34 @@ Consider the following structure when browsing our docs.
 
 ## Getting started
 
-* Why conda-forge
-* How to install packages
-* How to get support
-* Getting involved
-* Frequently asked questions (FAQ)
+- Why conda-forge
+- How to install packages
+- How to get support
+- Getting involved
+- Frequently asked questions (FAQ)
 
 ## For maintainers
 
-* The life cycle of a package
-* Concepts & terms
-* Adding new packages
-* Configure your feedstock
-* Tasks & responsibilities
-* Howtos & knowledge base
-* Maintainer's dashboard manual
-* Frequently asked questions
+- The life cycle of a package
+- Concepts & terms
+- Adding new packages
+- Configure your feedstock
+- Tasks & responsibilities
+- Howtos & knowledge base
+- Maintainer's dashboard manual
+- Frequently asked questions
 
 ## For contributors
 
-* Infrastructure overview
-* Automations in place
-* Projects in use
+- Infrastructure overview
+- Automations in place
+- Projects in use
 
 ## Organization
 
-* Governance
-* Organization & teams
-* Onboarding
-* Offboarding
-* Common tasks
-* Reviewer guidelines
+- Governance
+- Organization & teams
+- Onboarding
+- Offboarding
+- Common tasks
+- Reviewer guidelines
