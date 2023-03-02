@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Feedstock maintenance
+# Maintaining your feedstock
 
 Outside the package life cycle, there are some maintenance tasks that conda-forge has to perform every now and then.
 All of these are automated, but some of them need to be manually requested and approved by `conda-forge/core`.

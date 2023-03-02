@@ -1,6 +1,6 @@
-# czi-cf-docs
+# cf-infra-docs
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0c42a203-3592-4910-a5cc-81530f1811d9/deploy-status)](https://app.netlify.com/sites/czi-cf-docs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c42a203-3592-4910-a5cc-81530f1811d9/deploy-status)](https://app.netlify.com/sites/cf-infra-docs/deploys)
 
 ## What is this
 
@@ -74,4 +74,4 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Happens automatically through [Netlify](https://app.netlify.com/sites/czi-cf-docs/).
+Happens automatically through [Netlify](https://app.netlify.com/sites/cf-infra-docs/).

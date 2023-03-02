@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Community
+# About conda-forge
 
 WIP.

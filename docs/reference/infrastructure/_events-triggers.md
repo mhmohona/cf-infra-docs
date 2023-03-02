@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Package building
 
 <!-- TODO: Discuss infrasture elements first and link to them from the user/life-cycle document -->
