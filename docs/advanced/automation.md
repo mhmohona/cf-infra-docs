@@ -11,8 +11,8 @@ Before starting its important to outline the most important concepts in the cond
 This section is a work in progress and will be updated soon. Note that the diagrams below are not final and subject to change.
 :::
 
-![Core concepts](/img/advanced/core-concepts.png "Core concepts diagram")
+![Core concepts](../../static/img/advanced/core-concepts.png "Core concepts diagram")
 
 Below we have a general workflow diagram of the conda-forge ecosystem. It is a work in progress and we welcome any suggestions to improve it.
 
-![General ecosystem diagram](/img/advanced/general-ecosystem-diagram.png "General ecosystem diagram")
+![General ecosystem diagram](../../static/img/advanced/general-ecosystem-diagram.png "General ecosystem diagram")
